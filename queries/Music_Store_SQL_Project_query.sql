@@ -3,7 +3,6 @@
 /* 
 SQL Music Store Data Analysis Project
 Author: Poornima Singh
-Date: 03-07-2025
 Description: This project analyzes the music store database using SQL to extract insights on customers, sales, and transactions.
 */
 
